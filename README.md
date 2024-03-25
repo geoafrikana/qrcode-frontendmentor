@@ -23,7 +23,7 @@ To run the project locally:
 
 - Project inspiration from [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 - Coded by [Nasiru Adebayo Olagunju](https://spatialnasir.com)
-- View [on Netlify](url)
+- View [on Netlify](https://66015e44e37e7a0438ff3b30--qrcode-spatialnasir.netlify.app/)
 
 ## License
 
